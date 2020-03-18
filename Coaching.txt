@@ -1,5 +1,6 @@
 Welcome to IJ Academy
 Teacher List
-Manish Kumar
-Prechandra Kumar
-Rahul Kumar
+Manish Kumar          : Chemistry
+Prechandra Kumar      : Physics
+Rahul Kumar           : Math
+
