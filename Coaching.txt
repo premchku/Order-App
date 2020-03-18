@@ -1,13 +1,21 @@
 Welcome to IJ Academy
+
 Teacher List
 Manish Kumar          : Chemistry
 Prechandra Kumar      : Physics
 Rahul Kumar           : Math
 
 
-Student List
+12th Student List
 Bhawna Kumari
 Surbhi Suman
 Joti kumari
 Harsha 
+
+10th Student List
+Deepak
+Santosh
+
+
+
 
